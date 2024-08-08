@@ -1,11 +1,11 @@
 # Financial-Reporting-Using-Quickbooks
 ### Project Title: Comprehensive Financial Reporting for Frontier Park (Pvt) Ltd Using QuickBooks
 
-*Project Description:*
+#### *Project Description:*
 
 This project involves creating a comprehensive set of financial reports and statements for Frontier Park (Pvt) Ltd, a company initiated on April 1, 2023, selling electronic equipment. The project encompasses various accounting and financial activities that took place during April 2023. Using QuickBooks, I have meticulously recorded all transactions, generated necessary reports, and performed required adjustments. The objective is to demonstrate proficiency in managing and analyzing financial data using QuickBooks.
 
-*Project Objectives:*
+#### *Project Objectives:*
 
 1. *To record all business transactions accurately for the month of April 2023.*
 2. *To generate key financial statements including Profit and Loss Statement, Balance Sheet, and Cash Flow Statement.*
@@ -13,7 +13,7 @@ This project involves creating a comprehensive set of financial reports and stat
 4. *To provide detailed records of customer and vendor activities.*
 5. *To maintain and verify the inventory records.*
 
-*Scope of Work:*
+#### *Scope of Work:*
 
 1. *Profit and Loss Statement for April 2023:*
    - A detailed report showing the company’s revenues, expenses, and resulting net income for April.
@@ -45,7 +45,7 @@ This project involves creating a comprehensive set of financial reports and stat
 10. *Physical Worksheet of Inventory Items as of April 2023:*
     - Detailed inventory records including quantities, costs, and sales prices.
 
-*Key Highlights of the Project:*
+#### *Key Highlights of the Project:*
 
 - *Initial Investments:* Recording initial capital investments and their allocations into different accounts.
 - *Purchases and Sales:* Detailed entries for the purchase of property, plant, and equipment, office supplies, and inventory items; sales transactions including cash and credit sales.
